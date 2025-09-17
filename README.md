@@ -1,7 +1,23 @@
-# EasyHunting
-
 
 ## 🚀 JoKeR7-EasyHunting
+
+<p align="center">
+  <img height="140" width="140" alt="JoKeR7-EasyHunting Logo" src="https://github.com/user-attachments/assets/d765f345-05f7-4670-ab1f-b02121c36052" />
+</p>
+
+<h1 align="center">JoKeR7-EasyHunting</h1>
+
+<p align="center">
+  <em>A professional platform that simplifies penetration testing by providing a unified dashboard for managing targets, automating scans, integrating diverse tools, and delivering AI-powered insights.</em>
+</p>
+
+<p align="center">
+  <a href="https://joker7.vip/">🔗 Official Website</a> •
+  <a href="https://github.com/JoKeR7-Mo2a/EasyHunting/releases/latest">📦 Latest Release</a> •
+  <a href="https://github.com/JoKeR7-Mo2a/EasyHunting/issues">🐞 Report Issue</a>
+</p>
+
+---
 
 **JoKeR7-EasyHunting** is a professional platform that **simplifies penetration testing** by providing a unified dashboard for:  
 
@@ -29,16 +45,28 @@ Our platform integrates **AI capabilities** that work hand-in-hand with security
 Whether you’re a **beginner** starting your journey or an **expert** seeking to optimize your workflow, JoKeR7-EasyHunting is designed to make penetration testing more accessible, efficient, and impactful.  
 
 
+## 📊 Dashboard
+---
+
+<p align="center">
+  <a href="https://joker7.vip/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Dashboard-https%3A%2F%2Fjoker7.vip-blue?style=for-the-badge&logo=google-chrome" alt="Visit Dashboard" />
+  </a>
+</p>
+
+---
 
 ## 🎥 Demo Video
+
+---
 
 Check out the demo video showcasing the JoKeR7-EasyHunting interface:  
 
 [![Watch the video](https://img.youtube.com/vi/9fR9LDzXC9I/0.jpg)](https://youtu.be/9fR9LDzXC9I)
 
+---
 
 
-## 📸 Screenshots  
 ### About Us Page
 
 <img width="2543" height="932" alt="Screenshot 2025-09-17 234233" src="https://github.com/user-attachments/assets/4dcbf43b-ae6a-4a08-8c39-30669a4f2761" />
