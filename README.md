@@ -30,6 +30,7 @@ All tailored for **bug bounty hunters** and **security researchers** to maximize
 
 
 At **JoKeR7-EasyHunting**, our mission is to simplify and streamline the entire penetration testing process.  
+
 We specifically aim to empower the **Bug Bounty Hunter** community by providing a **comprehensive dashboard** that allows:
 
 - Managing scanning operations through multiple methods.  
@@ -42,7 +43,8 @@ Our platform integrates **AI capabilities** that work hand-in-hand with security
 - Analyze results intelligently.  
 - Deliver **actionable insights** that improve efficiency.  
 
-Whether you’re a **beginner** starting your journey or an **expert** seeking to optimize your workflow, JoKeR7-EasyHunting is designed to make penetration testing more accessible, efficient, and impactful.  
+Whether you’re a **beginner** starting your journey or an **expert** seeking to optimize your workflow, 
+JoKeR7-EasyHunting is designed to make penetration testing more accessible, efficient, and impactful.  
 
 
 ## 📊 Dashboard
