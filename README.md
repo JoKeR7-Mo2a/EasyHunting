@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joker7.vip/">🔗 Official Website</a> •
+  <a href="https://easyhunting.app/">🔗 Official Website</a> •
   <a href="https://github.com/JoKeR7-Mo2a/EasyHunting/releases/latest">📦 Latest Release</a> •
   <a href="https://github.com/JoKeR7-Mo2a/EasyHunting/issues">🐞 Report Issue</a>
 </p>
@@ -51,7 +51,7 @@ JoKeR7-EasyHunting is designed to make penetration testing more accessible, effi
 ---
 
 <p align="center">
-  <a href="https://joker7.vip/" target="_blank">
+  <a href="https://easyhunting.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Dashboard-https%3A%2F%2Fjoker7.vip-blue?style=for-the-badge&logo=google-chrome" alt="Visit Dashboard" />
   </a>
 </p>
