@@ -52,7 +52,7 @@ JoKeR7-EasyHunting is designed to make penetration testing more accessible, effi
 
 <p align="center">
   <a href="https://easyhunting.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Dashboard-https%3A%2F%2Fjoker7.vip-blue?style=for-the-badge&logo=google-chrome" alt="Visit Dashboard" />
+    <img src="https://img.shields.io/badge/Visit%20Dashboard-blue?style=for-the-badge&logo=google-chrome" alt="Visit Dashboard" />
   </a>
 </p>
 
