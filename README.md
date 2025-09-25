@@ -77,9 +77,26 @@ Check out the demo video showcasing the JoKeR7-EasyHunting interface:
 
 <img width="2550" height="931" alt="Screenshot 2025-09-17 234305" src="https://github.com/user-attachments/assets/b68cbe23-3d64-4d7d-b396-70724c58aae2" />
 
+
+### Ai Chat 
+
+<img width="2559" height="1381" alt="Screenshot 2025-09-23 040931" src="https://github.com/user-attachments/assets/8571337f-da0c-4643-8130-ad99b365ce5c" />
+
+<img width="2557" height="1355" alt="image" src="https://github.com/user-attachments/assets/7e3dbe0b-da0d-4f8e-ba7c-bbce16d35280" />
+
+
 ### Tools Management
 
 <img width="2532" height="1227" alt="image" src="https://github.com/user-attachments/assets/7d142721-781d-459d-9924-a2e61c4c57ac" />
+
+<img width="2553" height="1358" alt="Screenshot 2025-09-23 041227" src="https://github.com/user-attachments/assets/709503a8-6464-462e-abc3-b06d3f8c094b" />
+
+
+<img width="2385" height="1282" alt="image" src="https://github.com/user-attachments/assets/1f8c130d-1fd4-4b1c-91d2-08af8cbf2e61" />
+
+
+
+
 
 ### ScanList 
 
